@@ -1,7 +1,4 @@
-## Fundamentals of inference and learning, EE-411 
-
 This is an introductory course in the theory of statistics, inference, and machine learning, with an emphasis on theoretical understanding & practical exercises. The course will combine, and alternate, between mathematical theoretical foundations and practical computational aspects in python.
-
 
 ### Content
 The topics will be chosen from the following basic outline:
