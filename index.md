@@ -13,3 +13,12 @@ The topics will be chosen from the following basic outline:
 - Unsupervised learning : Mixture Models, PCA & Kernel PCA, k-means
 - Deep learning: multi-layer nets, convnets, auto-encoder, Gradient-descent algorithms
 - Basics of Generative models & Reinforcement learning
+
+### A list of references
+
+* A good book for probability and statistics, accessible to students, is Larry A. Wasserman 's <a href="https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf">All of Statistics</a>. 
+* An accessible introduction to statistical learning is given in <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">Elements of Statistical Learning </a> by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie. 
+* Another great reference is <a href="https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020">Machine Learning:A Probabilistic Perspective<a/> by Kevin P. Murphy. MacKay's <a href="https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020">Machine Learning:A Probabilistic Perspective <a href="https://www.inference.org.uk/itprnn/book.pdf">Information Theory, Inference and Learning Algorithms</a> is also a very useful ressource.
+* Modern Deep learning is well covered in this recent book:
+<a href="http://d2l.ai/">Dive into Deep Learning<a/> by A. Zhang, Z. Lipton, M. Li, A.J. Smola. 
+* Un recent, et excellent, livre de reference en Francais: <a href="https://www.amazon.fr/Introduction-Machine-Learning-Chloé-Agathe-Azencott/dp/2100780808">Introduction au Machine Learning </a> par Chloé-Agathe Azencott. 
