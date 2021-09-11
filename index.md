@@ -11,6 +11,18 @@ The topics will be chosen from the following basic outline:
 - Deep learning: multi-layer nets, convnets, auto-encoder, Gradient-descent algorithms
 - Basics of Generative models & Reinforcement learning
 
+### Lecture List:
+
+* Week 1: 
+- All of Probability  
+
+* Week 2: 
+- All of Statistics
+
+* Week 3: Statistical learning with Neireght-Neighbor method
+
+...
+
 ### A list of references
 
 * A good book for probability and statistics, accessible to students, is Larry A. Wasserman 's <a href="https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf">All of Statistics</a>. 
@@ -19,3 +31,11 @@ The topics will be chosen from the following basic outline:
 * Modern Deep learning is well covered in this recent book:
 <a href="http://d2l.ai/">Dive into Deep Learning<a/> by A. Zhang, Z. Lipton, M. Li, A.J. Smola. 
 * Un recent, et excellent, livre de reference en Francais: <a href="https://www.amazon.fr/Introduction-Machine-Learning-Chloé-Agathe-Azencott/dp/2100780808">Introduction au Machine Learning </a> par Chloé-Agathe Azencott. 
+  
+  
+###  Course Policies
+
+* Homeworks: There will be four homework assignments, each worth 15% of the final grade. Answers will be submitted on moodle (through canvas).
+* Projects: Project will account for 20% of the final grade. You may work in teams of 3-5 people. There will be a limited number of project to choose from, and you will not be able to chose other projects. Each team member's contribution should be highlighted. You should use the project as an opportunity to "learn by doing".
+* Exam: There will be a written exam, taht will acount for 20% of the final grade. The exam will be on the entire lecture.
+* Academic Integrity: Collaboration among students is allowed, and encouraged, but is intended to help you learn. IN other words, you may work on solving assignments together, but you should always write up your solutions separately. You should always implement code alone as well. Whenever collaboration happens, it should be reported by all parties involved in the relevant homework problem.
