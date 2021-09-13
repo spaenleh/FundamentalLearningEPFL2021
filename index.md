@@ -25,7 +25,7 @@ The topics will be chosen from the following basic outline:
 
 ### Lab classes:
 
-* Before the classes: [some python refresher](TP0/)
+* Before the classes: [A short intro to python](TP0/Intro to Python) and to vizualization and making plots with [Matplotlib](TP0/Visualization)).
 
 * Week 1: Intro to statistics with python [EXO1](TP1/)
 * Week 1: Maximum likelhood [EXO2](TP2/)
