@@ -23,6 +23,14 @@ The topics will be chosen from the following basic outline:
 
 ...
 
+### Lab classes:
+
+* Before the classes: [some python refresher](TP0/)
+
+* Week 1: Intro to statistics with python [EXO1](TP1/)
+* Week 1: Maximum likelhood [EXO2](TP2/)
+
+
 ### A list of references
 
 * A good book for probability and statistics, accessible to students, is Larry A. Wasserman 's <a href="https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf">All of Statistics</a>. 
