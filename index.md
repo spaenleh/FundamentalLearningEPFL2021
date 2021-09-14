@@ -11,6 +11,10 @@ The topics will be chosen from the following basic outline:
 - Deep learning: multi-layer nets, convnets, auto-encoder, Gradient-descent algorithms
 - Basics of Generative models & Reinforcement learning
 
+
+For student: [Moodle Link](https://moodle.epfl.ch/course/view.php?id=16783)
+
+
 ### Lecture List:
 
 * Week 1: 
