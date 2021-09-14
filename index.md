@@ -35,8 +35,12 @@ For students: [Moodle Link](https://moodle.epfl.ch/course/view.php?id=16783) & v
 * Before the classes: [A short intro to python](TP0/Intro%20to%20Python.ipynb) and to vizualization and making plots with [Matplotlib](TP0/Visualization)).
 
 * Week 1: Intro to statistics with python [EXO1](TP1/)
-* Week 1: Maximum likelhood [EXO2](TP2/)
+* Week 2: Maximum likelhood [EXO2](TP2/)
+* Week 3: KNN & Generalization [EXO3](TP3/)
 
+### Homeworks: TBD
+
+### Projects: TBD
 
 ### A list of references
 
