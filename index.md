@@ -17,12 +17,16 @@ For students: [Moodle Link](https://moodle.epfl.ch/course/view.php?id=16783) & v
 ### Lecture List:
 
 * Week 1: 
-- All of Probability  
+- All of Probability  [lecture notes](https://www.overleaf.com/1222519813bdjmdjmjjpbx)
+- A bit of Statistics
 
 * Week 2: 
-- All of Statistics
+- Bayesian and Frequentists
+- Optimality of Maximum likelihood
 
-* Week 3: Statistical learning with Neireght-Neighbor method
+* Week 3: Supervised Learning
+- Knn method
+- Generalization, Validation, and all that
 
 ...
 
