@@ -42,6 +42,11 @@ For students: [Moodle Link](https://moodle.epfl.ch/course/view.php?id=16783) & v
 
 ### Projects: TBD
 
+### Grading
+
+Grades will be made
+
+
 ### A list of references
 
 * A good book for probability and statistics, accessible to students, is Larry A. Wasserman 's <a href="https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf">All of Statistics</a>. 
@@ -54,7 +59,8 @@ For students: [Moodle Link](https://moodle.epfl.ch/course/view.php?id=16783) & v
   
 ###  Course Policies
 
-* Homeworks: There will be four homework assignments, each worth 15% of the final grade. Answers will be submitted on moodle (through canvas).
-* Projects: Project will account for 20% of the final grade. You may work in teams of 3-5 people. There will be a limited number of project to choose from, and you will not be able to chose other projects. Each team member's contribution should be highlighted. You should use the project as an opportunity to "learn by doing".
-* Exam: There will be a written exam, taht will acount for 20% of the final grade. The exam will be on the entire lecture.
-* Academic Integrity: Collaboration among students is allowed, and encouraged, but is intended to help you learn. IN other words, you may work on solving assignments together, but you should always write up your solutions separately. You should always implement code alone as well. Whenever collaboration happens, it should be reported by all parties involved in the relevant homework problem.
+* Homeworks: There will be three homework assignments, each worth 15% of the final grade. 
+* Scribing: Each students is expected to provide scribing for at least one lecture. Scribing will also count for 15% of the final grade.
+* Projects: Project will account for 40% of the final grade. You may work in teams of 3-5 people. There will be a limited number of project to choose from, and you will not be able to chose other projects. Each team member's contribution should be highlighted. You should use the project as an opportunity to "learn by doing".
+* Exam: There will be no written exam.
+* Academic Integrity: Collaboration among students is allowed, and encouraged, but is intended to help you learn. In other words, you may work on solving assignments together, but you should always write up your solutions separately. You should always implement code alone as well. Whenever collaboration happens, it should be reported by all parties involved in the relevant homework problem.
