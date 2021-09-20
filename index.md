@@ -1,7 +1,8 @@
 This is an introductory course in the theory of statistics, inference, and machine learning, with an emphasis on theoretical understanding & practical exercises. The course will combine, and alternate, between mathematical theoretical foundations and practical computational aspects in python.
 
-Professor: Florent Krzakala
-Teaching assistants: Davide Ghio, Ortiz Jimenez Guillermo,  Dimitriadis Nikolaos, Luca Pesce
+**Professor:** Florent Krzakala
+
+**Teaching Assistants:** Davide Ghio, Ortiz Jimenez Guillermo,  Dimitriadis Nikolaos, Luca Pesce
 
 ### Content
 The topics will be chosen from the following basic outline:
