@@ -20,7 +20,8 @@ For students: [Moodle Link](https://moodle.epfl.ch/course/view.php?id=16783) & v
 
 ### Lecture List:
 
-* **21/9: (i) All of probability** video(coming soon); lecture notes(coming soon)
+* **21/9: (i) All of probability** video(coming soon); lecture notes(coming soon)[overleaf model for lecture 1](
+https://www.overleaf.com/7338629352qxyrtrjtsvnc)
  
 This first class is a recap on probability theory that will serve us well in this class. A good reference, and an absolutly recommended reading, for this lecture is Chap. 1-5 in [All of statistics](http://egrcc.github.io/docs/math/all-of-statistics.pdf) by Wasserman. Tails bounds will be discussed again later in this course, and the theory-minded reader can consult [Chap. 2 in Wainwright](https://www.stat.berkeley.edu/~mjwain/stat210b/Chap2_TailBounds_Jan22_2015.pdf). 
 
