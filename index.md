@@ -16,36 +16,18 @@ For students: [Moodle Link](https://moodle.epfl.ch/course/view.php?id=16783) & v
 
 ### Lecture List:
 
-* Week 1: 
-- All of Probability  
-- A bit of Statistics
+* Week 1: All of probability
 
-* Week 2: 
-- Bayesian and Frequentists
-- Optimality of Maximum likelihood
-
-* Week 3: Supervised Learning
-- Knn method
-- Generalization, Validation, and all that
-
-...
 
 ### Lab classes:
 
 * Before the classes: [A short intro to python](TP0/Intro%20to%20Python.ipynb) and to vizualization and making plots with [Matplotlib](TP0/Visualization)).
 
-* Week 1: Intro to statistics with python [EXO1](TP1/)
-* Week 2: Maximum likelhood [EXO2](TP2/)
-* Week 3: KNN & Generalization [EXO3](TP3/)
+* Week 1: Intro to statistics with python [EXO1](TP1/FoIL_ex1_public.ipynb)
 
 ### Homeworks: TBD
 
 ### Projects: TBD
-
-### Grading
-
-Grades will be made
-
 
 ### A list of references
 
@@ -57,7 +39,7 @@ Grades will be made
 * Un recent, et excellent, livre de reference en Francais: <a href="https://www.amazon.fr/Introduction-Machine-Learning-Chloé-Agathe-Azencott/dp/2100780808">Introduction au Machine Learning </a> par Chloé-Agathe Azencott. 
   
   
-###  Course Policies
+### Course Policies
 
 * Homeworks: There will be three homework assignments, each worth 15% of the final grade. 
 * Scribing: Each students is expected to provide scribing for at least one lecture. Scribing will also count for 15% of the final grade.
