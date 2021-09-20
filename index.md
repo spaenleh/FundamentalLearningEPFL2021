@@ -16,14 +16,15 @@ For students: [Moodle Link](https://moodle.epfl.ch/course/view.php?id=16783) & v
 
 ### Lecture List:
 
-* Week 1: All of probability
-
+* **21/9: (i) All of probability** video(coming soon); lecture notes(coming soon)
+ 
+This first class is a recap on probability theory that will serve us well in this class. A good reference, and an absolutly recommended reading, for this lecture is Chap. 1-5 in [All of statistics](http://egrcc.github.io/docs/math/all-of-statistics.pdf) by Wasserman. Tails bounds will be discussed again later in this course, and the theory-minded reader can consult [Chap. 2](https://www.stat.berkeley.edu/~mjwain/stat210b/Chap2_TailBounds_Jan22_2015.pdf) in Wainwrights.
 
 ### Lab classes:
 
 * Before the classes: [A short intro to python](TP0/Intro%20to%20Python.ipynb) and to vizualization and making plots with [Matplotlib](TP0/Visualization)).
 
-* Week 1: Intro to statistics with python [EXO1](TP1/FoIL_ex1_public.ipynb)
+* Week 1 (22/9): Introduction to statistics with python [EXO1](TP1/FoIL_ex1_public.ipynb)
 
 ### Homeworks: TBD
 
