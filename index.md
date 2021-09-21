@@ -31,6 +31,8 @@ This first class is a recap on probability theory that will serve us well in thi
 
 * Week 1 (22/9): Introduction to statistics with python [EXO1](TP1/FoIL_ex1_public.ipynb)
 
+* Week 2 (29/9): Estimation with maximum likelihood [EXO2](TP2/FoIL_ex2_public.ipynb)
+
 ### Homeworks: TBD
 
 ### Projects: TBD
