@@ -20,6 +20,8 @@ For students: [Moodle Link](https://moodle.epfl.ch/course/view.php?id=16783) & v
 
 ### Lecture List:
 
+Short video on [introduction and course information](https://tube.switch.ch/videos/OtMpZ1csbC)
+
 * **21/9: (i) All of probability** video(coming soon); [lecture notes](https://www.overleaf.com/1222519813bdjmdjmjjpbx)
  
 This first class is a recap on probability theory that will serve us well in this class. A good reference, and an absolutly recommended reading, for this lecture is Chap. 1-5 in [All of statistics](http://egrcc.github.io/docs/math/all-of-statistics.pdf) by Wasserman. 
