@@ -27,7 +27,7 @@ This first class is a recap on probability theory that will serve us well in thi
 
 ### Lab classes:
 
-* Before the classes: [A short intro to python](TP0/Intro%20to%20Python.ipynb) and to vizualization and making plots with [Matplotlib](TP0/Visualization)).
+* Before the classes: [A short intro to python](TP0/Intro%20to%20Python.ipynb) and to vizualization and making plots with [Matplotlib](TP0/Visualization.ipynb)).
 
 * Week 1 (22/9): Introduction to statistics with python [EXO1](TP1/FoIL_ex1_public.ipynb)
 
