@@ -17,6 +17,8 @@ The topics will be chosen from the following basic outline:
 
 
 For students: [Moodle Link](https://moodle.epfl.ch/course/view.php?id=16783) & videos of the course on [TubeSwitch](https://tube.switch.ch/channels/P21dFjFlzG)
+Discussions: You can discuss and ask questions on the course. We use slack, which is a rgeat platform for this, here is the invitation to join the forum [forum on slack](https://join.slack.com/t/lecturee411-2021/shared_invite/zt-wctokqj5-Gsk8mp790JmMjDakedJArA) which is valid until the end of october.
+
 
 ### Lecture List:
 
