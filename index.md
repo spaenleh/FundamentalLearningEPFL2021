@@ -61,3 +61,11 @@ This first class is a recap on probability theory that will serve us well in thi
 * Videos: videos of the lecture will be posted on the [SwichTube channel](https://tube.switch.ch/channels/P21dFjFlzG) of the course.
 * Latex  If you cannot compile LaTeX on your own computer (and even if you, this is often a good strategy anyway), EPFL is providing Overleaf Professional accounts for all students: [Overleaf EPFL](https://www.overleaf.com/edu/epfl#overview) . With Overleaf you can write and compile LaTeX directly from your web browser. To use the provided template (.tex), you can create a new project and upload the .tex file.
 * Academic Integrity: Collaboration among students is allowed, and encouraged, but is intended to help you learn. In other words, you may work on solving assignments together, but you should always write up your solutions separately. You should always implement code alone as well. Whenever collaboration happens, it should be reported by all parties involved in the relevant homework problem.
+ 
+ ### FAQ
+* How can I use python on my computer? 
+ Two good options to run python online are EPFL Noto & Google Colab. [Noto](https://www.epfl.ch/education/educational-initiatives/cede/digitaltools/jupyter-notebooks-for-education/) is EPFL’s JupyterLab centralized platform. It allows teachers and students to use notebooks without having to install python on their computer. Google colab provides a similar solution, with the added avantage that it gives access to GPUs. For instnace, you can open the jupyter notebook corresponding to the first exercice by a) searchin google colab in your browser) b) selecting github, and then c) give the path `https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP1/FoIL_ex1_public.ipynb`
+
+* I do not know any python! What should I do? 
+[TP0](https://github.com/IdePHICS/FundamentalLearningEPFL2021/tree/main/TP0) provides a short introduction. If you need more and really need to study python, here is a a good [Python and NumPy Tutorial](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb).
+ 
