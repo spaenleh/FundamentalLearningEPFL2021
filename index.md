@@ -65,9 +65,9 @@ This first class is a recap on probability theory that will serve us well in thi
  ### FAQ
 * How can I use python on my computer? 
  
-- Two good options to run python online are EPFL Noto & Google Colab. [Noto](https://www.epfl.ch/education/educational-initiatives/cede/digitaltools/jupyter-notebooks-for-education/) is EPFL’s JupyterLab centralized platform. It allows teachers and students to use notebooks without having to install python on their computer. Google colab provides a similar solution, with the added avantage that it gives access to GPUs. For instnace, you can open the jupyter notebook corresponding to the first exercice by a) searchin google colab in your browser) b) selecting github, and then c) give the path `https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP1/FoIL_ex1_public.ipynb`
+Two good options to run python online are EPFL Noto & Google Colab. [Noto](https://www.epfl.ch/education/educational-initiatives/cede/digitaltools/jupyter-notebooks-for-education/) is EPFL’s JupyterLab centralized platform. It allows teachers and students to use notebooks without having to install python on their computer. Google colab provides a similar solution, with the added avantage that it gives access to GPUs. For instnace, you can open the jupyter notebook corresponding to the first exercice by a) searchin google colab in your browser) b) selecting github, and then c) give the path `https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP1/FoIL_ex1_public.ipynb`
 
 * I do not know any python! What should I do? 
 
- -[TP0](https://github.com/IdePHICS/FundamentalLearningEPFL2021/tree/main/TP0) provides a short introduction. If you need more and really need to study python, here is a a good [Python and NumPy Tutorial](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb).
+[TP0](https://github.com/IdePHICS/FundamentalLearningEPFL2021/tree/main/TP0) provides a short introduction. If you need more and really need to study python, here is a a good [Python and NumPy Tutorial](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb).
  
