@@ -27,6 +27,11 @@ Short video on [introduction and course information](https://tube.switch.ch/vide
 * **21/9: (i) All of probability** [video part-a](https://tube.switch.ch/videos/O5cTqs2NT7),[video part-b](https://tube.switch.ch/videos/9GNFirFjRw) [video part-c](https://tube.switch.ch/videos/hg4GoRppXj); [lecture notes](https://www.overleaf.com/1222519813bdjmdjmjjpbx)
  
 This first class is a recap on probability theory that will serve us well in this class. A good reference, and an absolutly recommended reading, for this lecture is Chap. 1-5 in [All of statistics](http://egrcc.github.io/docs/math/all-of-statistics.pdf) by Wasserman. 
+
+* **28/9: (ii) All of statistics** Videos and notes in preparation. [written notes](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/WrittenNotes/Lec2.pdf)
+
+This second class is focised on the theory of [maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation). There are many good references on the topic, including for instance chap. 9 in [All of statistics](http://egrcc.github.io/docs/math/all-of-statistics.pdf), or for the Bayesian point of view, [MacKay](http://www.inference.org.uk/itprnn/book.pdf) chap 2 and 3.
+
 <!---Tails bounds will be discussed again later in this course, and the motivated theory-minded reader can consult [Chap. 2 in Wainwright](https://www.stat.berkeley.edu/~mjwain/stat210b/Chap2_TailBounds_Jan22_2015.pdf). --->
 
 ### Lab classes:
