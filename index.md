@@ -38,11 +38,13 @@ This second class is focused on the theory of [maximum likelihood estimation](ht
 
 * Before the classes: [A short intro to python](TP0/Intro%20to%20Python.ipynb) and to vizualization and making plots with [Matplotlib](TP0/Visualization.ipynb)).
 
-* Week 1 (22/9): Introduction to statistics with python [EXO1](TP1/FoIL_ex1_public.ipynb)
+* Week 1 (22/9): Introduction to statistics with python [EXO1](TP1/FoIL_ex1_public.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP1/solution/FoIL_ex1_solved.ipynb)
 
 * Week 2 (29/9): Estimation with maximum likelihood [EXO2](TP2/FoIL_ex2_public.ipynb)
 
-### Homeworks: TBD
+### Homeworks: 
+
+* HW1 (Due october 19, on moodle) [Maximum likelihood and Probability](FLO)
 
 ### Projects: TBD
 
