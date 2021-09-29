@@ -44,7 +44,7 @@ This second class is focused on the theory of [maximum likelihood estimation](ht
 
 ### Homeworks: 
 
-* HW1 (Due october 19, on moodle) [Maximum likelihood and Probability](FLO)
+* HW1 (Due october 19, on moodle) [Maximum likelihood and Probability](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP0/Homework1_EE411.pdf)
 
 ### Projects: TBD
 
