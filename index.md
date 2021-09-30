@@ -42,6 +42,8 @@ This second class is focused on the theory of [maximum likelihood estimation](ht
 
 * Week 2 (29/9): Estimation with maximum likelihood [EXO2](TP2/FoIL_ex2_public.ipynb)
 
+* Week 3 (6/10): Supervised learning with kNN [EXO3](TP3/FoIL_TP3_public.ipynb)
+
 ### Homeworks: 
 
 * HW1 (Due october 19, on moodle) [Maximum likelihood and Probability](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/HW/Homework1_EE411.pdf)
