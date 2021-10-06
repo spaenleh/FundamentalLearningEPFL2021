@@ -32,7 +32,8 @@ This first class is a recap on probability theory that will serve us well in thi
 
 This second class is focused on the theory of [maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation). There are many good references on the topic, including for instance chap. 9 in [All of statistics](http://egrcc.github.io/docs/math/all-of-statistics.pdf), or for the Bayesian point of view, [MacKay](http://www.inference.org.uk/itprnn/book.pdf) chap 2 and 3.
 
-<!---Tails bounds will be discussed again later in this course, and the motivated theory-minded reader can consult [Chap. 2 in Wainwright](https://www.stat.berkeley.edu/~mjwain/stat210b/Chap2_TailBounds_Jan22_2015.pdf). --->
+* **5/10: (ii) Supervised learning and KNN** [video part-a](https://tube.switch.ch/videos/y0T46zQ8Uz),[video part-b](https://tube.switch.ch/videos/WPxmNebck8). Notes in preparation. 
+
 
 ### Lab classes:
 
