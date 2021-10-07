@@ -17,7 +17,8 @@ The topics will be chosen from the following basic outline:
 
 
 For students: [Moodle Link](https://moodle.epfl.ch/course/view.php?id=16783) & videos of the course on [TubeSwitch](https://tube.switch.ch/channels/P21dFjFlzG)
-Discussions: You can discuss and ask questions on the course. We use slack, which is a rgeat platform for this, here is the invitation to join the forum [forum on slack](https://join.slack.com/t/lecturee411-2021/shared_invite/zt-wctokqj5-Gsk8mp790JmMjDakedJArA) which is valid until the end of october.
+
+Discussions: You can discuss and ask questions on the course. We use slack, which is a great platform for this, here is the invitation to join the forum [forum on slack](https://join.slack.com/t/lecturee411-2021/shared_invite/zt-wctokqj5-Gsk8mp790JmMjDakedJArA) which is valid until the end of october.
 
 
 ### Lecture List:
@@ -45,7 +46,7 @@ A good read on supervised statistical learning is chapter 2 in [An Introduction 
 
 * Week 2 (29/9): Estimation with maximum likelihood [EXO2](TP2/FoIL_ex2_public.ipynb);[Solution](TP2/solution/FoIL_ex2_solved.ipynb)
 
-* Week 3 (6/10): Supervised learning with kNN [EXO3](TP3/FoIL_TP3_public.ipynb)
+* Week 3 (6/10): Supervised learning with kNN [EXO3](TP3/TP3_FoIL_public.ipynb)
 
 ### Homeworks: 
 
@@ -73,7 +74,7 @@ A good read on supervised statistical learning is chapter 2 in [An Introduction 
 * Videos: videos of the lecture will be posted on the [SwichTube channel](https://tube.switch.ch/channels/P21dFjFlzG) of the course.
 * Academic Integrity: Collaboration among students is allowed, and encouraged, but is intended to help you learn. In other words, you may work on solving assignments together, but you should always write up your solutions separately. You should always implement code alone as well. Whenever collaboration happens, it should be reported by all parties involved in the relevant homework problem.
  
- ### FAQ
+### FAQ
 * How can I use python on my computer? 
  
 Two good options to run python online are EPFL Noto & Google Colab. [Noto](https://www.epfl.ch/education/educational-initiatives/cede/digitaltools/jupyter-notebooks-for-education/) is EPFL’s JupyterLab centralized platform. It allows teachers and students to use notebooks without having to install python on their computer. [Google colab](https://research.google.com/colaboratory/) provides a similar solution, with the added avantage that it gives access to GPUs. For instnace, you can open the jupyter notebook corresponding to the first exercice by a) opening google colab in your browser) b) selecting github, and  c) writing the path `https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP1/FoIL_ex1_public.ipynb`
