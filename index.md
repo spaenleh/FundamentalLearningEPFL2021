@@ -29,11 +29,12 @@ Short video on [introduction and course information](https://tube.switch.ch/vide
  
 This first class is a recap on probability theory that will serve us well in this class. A good reference, and an absolutly recommended reading, for this lecture is Chap. 1-5 in [All of statistics](http://egrcc.github.io/docs/math/all-of-statistics.pdf) by Wasserman. 
 
-* **28/9: (ii) All of statistics** [video part-a](https://tube.switch.ch/videos/B3r56XLIvj),[video part-b](https://tube.switch.ch/videos/BpUsMuh7p3). Notes in preparation. [Manuscripts notes](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/WrittenNotes/Lec2.pdf)
+* **28/9: (ii) All of statistics** [video part-a](https://tube.switch.ch/videos/B3r56XLIvj),[video part-b](https://tube.switch.ch/videos/BpUsMuh7p3). Notes in preparation. [lecture notes](https://www.overleaf.com/2917916729ycfdqnyjhbzp)
 
 This second class is focused on the theory of [maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation). There are many good references on the topic, including for instance chap. 9 in [All of statistics](http://egrcc.github.io/docs/math/all-of-statistics.pdf), or for the Bayesian point of view, [MacKay](http://www.inference.org.uk/itprnn/book.pdf) chap 2 and 3.
 
-* **5/10: (iii) Supervised learning and KNN** [video part-a](https://tube.switch.ch/videos/y0T46zQ8Uz),[video part-b](https://tube.switch.ch/videos/WPxmNebck8). Notes in preparation. 
+* **5/10: (iii) Supervised learning and KNN** [video part-a](https://tube.switch.ch/videos/y0T46zQ8Uz),[video part-b](https://tube.switch.ch/videos/WPxmNebck8). [lecture notes](https://www.overleaf.com/7116425623ttfcnbvcncmt)
+
 
 A good read on supervised statistical learning is chapter 2 in [An Introduction to Statistical Learning](https://www.statlearning.com/) by James, Witten, Hastie and Tibshirani. They also discuss in detail K-neareast neighbors.
 
@@ -42,11 +43,13 @@ A good read on supervised statistical learning is chapter 2 in [An Introduction 
 
 * Before the classes: [A short intro to python](TP0/Intro%20to%20Python.ipynb) and to vizualization and making plots with [Matplotlib](TP0/Visualization.ipynb)).
 
-* Week 1 (22/9): Introduction to statistics with python [EXO1](TP1/FoIL_ex1_public.ipynb);[Solution](TP1/solution/FoIL_ex1_solved.ipynb)
+* Week 1 (22/9): Introduction to statistics with python [EXO1](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP1/FoIL_ex1_public.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP1/solution/FoIL_ex1_solved.ipynb)
 
-* Week 2 (29/9): Estimation with maximum likelihood [EXO2](TP2/FoIL_ex2_public.ipynb);[Solution](TP2/solution/FoIL_ex2_solved.ipynb)
+* Week 2 (29/9): Estimation with maximum likelihood [EXO2](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP2/FoIL_ex2_public.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP2/solution/FoIL_ex2_solved.ipynb)
 
-* Week 3 (6/10): Supervised learning with kNN [EXO3](TP3/TP3_FoIL_public.ipynb)
+* Week 3 (6/10): Supervised learning with kNN [EXO3](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP3/TP3_FoIL_public.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP3/Solution/FoIL_TP3_solved.ipynb)
+
+* Week 4(13/10): Gradient descents [EXO4](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP4/FoIL_ex4_public.ipynb)
 
 ### Homeworks: 
 
