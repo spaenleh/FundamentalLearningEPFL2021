@@ -29,16 +29,15 @@ Short video on [introduction and course information](https://tube.switch.ch/vide
  
 This first class is a recap on probability theory that will serve us well in this class. A good reference, and an absolutly recommended reading, for this lecture is Chap. 1-5 in [All of statistics](http://egrcc.github.io/docs/math/all-of-statistics.pdf) by Wasserman. 
 
-* **28/9: (ii) All of statistics** [video part-a](https://tube.switch.ch/videos/B3r56XLIvj),[video part-b](https://tube.switch.ch/videos/BpUsMuh7p3). Notes in preparation. [lecture notes](https://www.overleaf.com/2917916729ycfdqnyjhbzp)
+* **28/9: (ii) All of statistics** [video part-a](https://tube.switch.ch/videos/B3r56XLIvj),[video part-b](https://tube.switch.ch/videos/BpUsMuh7p3); [lecture notes](https://www.overleaf.com/2917916729ycfdqnyjhbzp)
 
 This second class is focused on the theory of [maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation). There are many good references on the topic, including for instance chap. 9 in [All of statistics](http://egrcc.github.io/docs/math/all-of-statistics.pdf), or for the Bayesian point of view, [MacKay](http://www.inference.org.uk/itprnn/book.pdf) chap 2 and 3.
 
-* **5/10: (iii) Supervised learning and KNN** [video part-a](https://tube.switch.ch/videos/y0T46zQ8Uz),[video part-b](https://tube.switch.ch/videos/WPxmNebck8). [video part-c](https://tube.switch.ch/videos/kiCjZ4fytL)
-* [lecture notes](https://www.overleaf.com/7116425623ttfcnbvcncmt)
+* **5/10: (iii) Supervised learning and KNN** [video part-a](https://tube.switch.ch/videos/y0T46zQ8Uz),[video part-b](https://tube.switch.ch/videos/WPxmNebck8). [video part-c](https://tube.switch.ch/videos/kiCjZ4fytL); [lecture notes](https://www.overleaf.com/7116425623ttfcnbvcncmt)
 
 A good read on supervised statistical learning is chapter 2 in [An Introduction to Statistical Learning](https://www.statlearning.com/) by James, Witten, Hastie and Tibshirani. They also discuss in detail K-neareast neighbors.
 
-* **12/10: (iv) Gradient descents**  [video part-a](https://tube.switch.ch/videos/ymhYGS5FBp). [lecture notes](https://www.overleaf.com/7338629352qxyrtrjtsvnc) 
+* **12/10: (iv) Gradient descents**  [video part-a](https://tube.switch.ch/videos/ymhYGS5FBp); [lecture notes](https://www.overleaf.com/7338629352qxyrtrjtsvnc) 
 
 Gradient descent is the workhorse of all modern machine learning methods. There are many ressourse on gradient descent, from [pedagogical ones](https://ruder.io/optimizing-gradient-descent/) to [technical ones](https://gowerrobert.github.io/pdf/M2_statistique_optimisation/grad_conv.pdf). Proximal operators are very powerful and are well described in this set of lectures [Tibshirani1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/grad-descent.pdf), [Tibshirani2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/subgrad.pdf),[Tibshirani3](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/prox-grad.pdf).
 
