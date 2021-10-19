@@ -33,11 +33,16 @@ This first class is a recap on probability theory that will serve us well in thi
 
 This second class is focused on the theory of [maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation). There are many good references on the topic, including for instance chap. 9 in [All of statistics](http://egrcc.github.io/docs/math/all-of-statistics.pdf), or for the Bayesian point of view, [MacKay](http://www.inference.org.uk/itprnn/book.pdf) chap 2 and 3.
 
-* **5/10: (iii) Supervised learning and KNN** [video part-a](https://tube.switch.ch/videos/y0T46zQ8Uz),[video part-b](https://tube.switch.ch/videos/WPxmNebck8). [lecture notes](https://www.overleaf.com/7116425623ttfcnbvcncmt)
-
+* **5/10: (iii) Supervised learning and KNN** [video part-a](https://tube.switch.ch/videos/y0T46zQ8Uz),[video part-b](https://tube.switch.ch/videos/WPxmNebck8). [video part-c](https://tube.switch.ch/videos/kiCjZ4fytL)
+* [lecture notes](https://www.overleaf.com/7116425623ttfcnbvcncmt)
 
 A good read on supervised statistical learning is chapter 2 in [An Introduction to Statistical Learning](https://www.statlearning.com/) by James, Witten, Hastie and Tibshirani. They also discuss in detail K-neareast neighbors.
 
+* **12/10: (iv) Gradient descents**  [video part-a](https://tube.switch.ch/videos/ymhYGS5FBp). [lecture notes](https://www.overleaf.com/7338629352qxyrtrjtsvnc) 
+
+Gradient descent is the workhorse of all modern machine learning methods. There are many ressourse on gradient descent, from [pedagogical ones](https://ruder.io/optimizing-gradient-descent/) to [technical ones](https://gowerrobert.github.io/pdf/M2_statistique_optimisation/grad_conv.pdf). Proximal operators are very powerful and are well described in this set of lectures [Tibshirani1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/grad-descent.pdf), [Tibshirani2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/subgrad.pdf),[Tibshirani3](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/prox-grad.pdf).
+
+* **17/10: (iv) Linear methods** [lecture notes](https://www.overleaf.com/project/616057accbec194c682a91d9) 
 
 ### Lab classes:
 
@@ -50,6 +55,8 @@ A good read on supervised statistical learning is chapter 2 in [An Introduction 
 * Week 3 (6/10): Supervised learning with kNN [EXO3](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP3/TP3_FoIL_public.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP3/Solution/FoIL_TP3_solved.ipynb)
 
 * Week 4(13/10): Gradient descents [EXO4](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP4/FoIL_ex4_public.ipynb)
+
+* Week 5(20/10): Linear methods 
 
 ### Homeworks: 
 
