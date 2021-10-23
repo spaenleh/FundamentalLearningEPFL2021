@@ -37,11 +37,14 @@ This second class is focused on the theory of [maximum likelihood estimation](ht
 
 A good read on supervised statistical learning is chapter 2 in [An Introduction to Statistical Learning](https://www.statlearning.com/) by James, Witten, Hastie and Tibshirani. They also discuss in detail K-neareast neighbors.
 
-* **12/10: (iv) Gradient descents**  [video part-a](https://tube.switch.ch/videos/ymhYGS5FBp); [lecture notes](https://www.overleaf.com/7338629352qxyrtrjtsvnc) 
+* **12/10: (iv) Gradient descents**  [video part-a](https://tube.switch.ch/videos/ymhYGS5FBp),[video part-b](https://tube.switch.ch/videos/Uty6vSGfg2); [lecture notes](https://www.overleaf.com/7338629352qxyrtrjtsvnc) 
 
 Gradient descent is the workhorse of all modern machine learning methods. There are many ressourse on gradient descent, from [pedagogical ones](https://ruder.io/optimizing-gradient-descent/) to [technical ones](https://gowerrobert.github.io/pdf/M2_statistique_optimisation/grad_conv.pdf). Proximal operators are very powerful and are well described in this set of lectures [Tibshirani1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/grad-descent.pdf), [Tibshirani2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/subgrad.pdf),[Tibshirani3](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/prox-grad.pdf).
 
-* **17/10: (iv) Linear methods** [lecture notes](https://www.overleaf.com/project/616057accbec194c682a91d9) 
+* **19/10 and 26/10 (v-vi) Linear methods** [video part-a](https://tube.switch.ch/videos/Uty6vSGfg2),[video part-b](https://tube.switch.ch/videos/GKTjPNui5i);  [lecture notes](https://www.overleaf.com/project/616057accbec194c682a91d9) 
+
+Linear methods are the simplest among all parametric methods, but are still extremly useful! A good discussion of OLD, Ridge and LASSO can be found in Chap 6, section 2 in [An Introduction to Statistical](https://www.statlearning.com/). Another good reference is [this one](https://www.whitman.edu/documents/Academics/Mathematics/DeVine.pdf).
+
 
 ### Lab classes:
 
@@ -55,11 +58,15 @@ Gradient descent is the workhorse of all modern machine learning methods. There 
 
 * Week 4(13/10): Gradient descents [EXO4](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP4/FoIL_ex4_public.ipynb)
 
-* Week 5(20/10): Linear methods 
+* Week 5(20/10): Linear methods [EXO5](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP5/FoIL_ex5_public.ipynb)
+
+* Week 6(27/10): Classification with linear methods
 
 ### Homeworks: 
 
 * HW1 (Due october 19, on moodle) [Maximum likelihood and Probability](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/HW/Homework1_EE411.pdf)
+
+* HW2 (Due November 23, on moodle) "Linear Fits, and Bias-Variance", In preparation
 
 ### Projects: TBD
 
