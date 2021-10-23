@@ -56,11 +56,11 @@ Linear methods are the simplest among all parametric methods, but are still extr
 
 * Week 3 (6/10): Supervised learning with kNN [EXO3](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP3/TP3_FoIL_public.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP3/Solution/FoIL_TP3_solved.ipynb)
 
-* Week 4(13/10): Gradient descents [EXO4](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP4/FoIL_ex4_public.ipynb)
+* Week 4(13/10): Gradient descents [EXO4](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP4/FoIL_ex4_public.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP4/solution/FoIL_ex4_solved.ipynb)
 
 * Week 5(20/10): Linear methods [EXO5](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP5/FoIL_ex5_public.ipynb)
 
-* Week 6(27/10): Classification with linear methods
+* Week 6(27/10): Classification with linear methods [EXO6](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP6/FoIL_TP6.ipynb)
 
 ### Homeworks: 
 
