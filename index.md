@@ -43,7 +43,7 @@ Gradient descent is the workhorse of all modern machine learning methods. There 
 
 * **19/10 and 26/10 (v-vi) Linear methods** [video part-a](https://tube.switch.ch/videos/Uty6vSGfg2),[video part-b](https://tube.switch.ch/videos/GKTjPNui5i);  [lecture notes](https://www.overleaf.com/project/616057accbec194c682a91d9) 
 
-Linear methods are the simplest among all parametric methods, but are still extremly useful! A good discussion of OLD, Ridge and LASSO can be found in Chap 6, section 2 in [An Introduction to Statistical](https://www.statlearning.com/). Another good reference is [this one](https://www.whitman.edu/documents/Academics/Mathematics/DeVine.pdf).
+Linear methods are the simplest among all parametric methods, but are still extremly useful! A good discussion of OLD, Ridge and LASSO can be found in Chap 6, section 2 in [An Introduction to Statistical Learning](https://www.statlearning.com/). Another good reference is [this one](https://www.whitman.edu/documents/Academics/Mathematics/DeVine.pdf). Linear classification methods are also at the center of machine learning technics, and are discussed in details in chapter 4 of [An Introduction to Statistical Learning](https://www.statlearning.com/).
 
 
 ### Lab classes:
@@ -66,7 +66,8 @@ Linear methods are the simplest among all parametric methods, but are still extr
 
 * HW1 (Due october 19, on moodle) [Maximum likelihood and Probability](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/HW/Homework1_EE411.pdf)
 
-* HW2 (Due November 23, on moodle) "Linear Fits, and Bias-Variance", In preparation
+* HW2 (Due November 23, on moodle) [Linear models, and Bias-Variance trade-of"
+(https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/HW/Homework2_EE411.pdf)
 
 ### Projects: TBD
 
