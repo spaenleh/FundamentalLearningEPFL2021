@@ -66,7 +66,7 @@ Linear methods are the simplest among all parametric methods, but are still extr
 
 * HW1 (Due october 19, on moodle) [Maximum likelihood and Probability](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/HW/Homework1_EE411.pdf)
 
-* HW2 (Due November 23, on moodle) [Linear models, and Bias-Variance trade-of"
+* HW2 (Due November 23, on moodle) [Linear models, and Bias-Variance trade-of]
 (https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/HW/Homework2_EE411.pdf)
 
 ### Projects: TBD
