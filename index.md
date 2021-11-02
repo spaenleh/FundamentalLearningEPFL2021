@@ -66,7 +66,9 @@ Richers features maps that linear ones, and Kernel methods, are one of the most 
 
 * Week 5(20/10): Linear methods [EXO5](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP5/FoIL_ex5_public.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP5/solution/FoIL_ex5_solved.ipynb)
 
-* Week 6(27/10): Classification with linear methods [EXO6](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP6/FoIL_TP6.ipynb)
+* Week 6(27/10): Classification with linear methods [EXO6](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP6/FoIL_TP6.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP6/Solution/FoIL_TP6_solved.ipynb)
+
+* Week 7(3/10): Kernel methods[EX07](https://github.com/IdePHICS/FundamentalLearningEPFL2021/tree/main/TP7)
 
 ### Homeworks: 
 
