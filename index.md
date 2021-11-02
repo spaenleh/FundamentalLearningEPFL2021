@@ -47,6 +47,8 @@ Linear methods are the simplest among all parametric methods, but are still extr
 
 * **2/11 (vii) Features maps and Kernels**
 
+Richers features maps that linear ones, and Kernel methods, are one of the most important aspect of supervised machine learning. Michael Jordan's [notes on kernel](https://people.eecs.berkeley.edu/~jordan/kernels/0521813972c02_p25-46.pdf) are a good reference. The review from [Hofmann,  Scholkopf and Smola](https://arxiv.org/pdf/math/0701907.pdf) is also very complete. Scikit-learn has a [detailed and very efficient implementation](https://scikit-learn.org/stable/modules/kernel_approximation.html).
+
 * **9/11 (viii) Neural networks and backpropagation**
 
 
