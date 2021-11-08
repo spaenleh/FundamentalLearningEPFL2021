@@ -41,15 +41,17 @@ A good read on supervised statistical learning is chapter 2 in [An Introduction 
 
 Gradient descent is the workhorse of all modern machine learning methods. There are many ressourse on gradient descent, from [pedagogical ones](https://ruder.io/optimizing-gradient-descent/) to [technical ones](https://gowerrobert.github.io/pdf/M2_statistique_optimisation/grad_conv.pdf). Proximal operators are very powerful and are well described in this set of lectures [Tibshirani1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/grad-descent.pdf), [Tibshirani2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/subgrad.pdf),[Tibshirani3](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/prox-grad.pdf).
 
-* **19/10 and 26/10 (v-vi) Linear methods** [video part-a](https://tube.switch.ch/videos/Uty6vSGfg2),[video part-b](https://tube.switch.ch/videos/GKTjPNui5i);[video part-c](https://tube.switch.ch/videos/qBtMeqUMOc),[video part-d](https://tube.switch.ch/videos/zO13qoBH8o); [lecture notes](https://www.overleaf.com/project/616057accbec194c682a91d9) 
+* **19/10 and 26/10 (v) Linear methods** [video part-a](https://tube.switch.ch/videos/Uty6vSGfg2),[video part-b](https://tube.switch.ch/videos/GKTjPNui5i);[video part-c](https://tube.switch.ch/videos/qBtMeqUMOc),[video part-d](https://tube.switch.ch/videos/zO13qoBH8o); [video part-e](https://tube.switch.ch/videos/MzXSD93VPv)  [lecture notes](https://www.overleaf.com/project/616057accbec194c682a91d9) 
 
 Linear methods are the simplest among all parametric methods, but are still extremly useful! A good discussion of OLD, Ridge and LASSO can be found in Chap 6, section 2 in [An Introduction to Statistical Learning](https://www.statlearning.com/). Another good reference is [this one](https://www.whitman.edu/documents/Academics/Mathematics/DeVine.pdf). Linear classification methods are also at the center of machine learning technics, and are discussed in details in chapter 4 of [An Introduction to Statistical Learning](https://www.statlearning.com/).
 
-* **2/11 (vii) Features maps and Kernels**
+* **2/11 (vi) Features maps and Kernels**  [video part-a](https://tube.switch.ch/videos/MzXSD93VPv), [video part-b](https://tube.switch.ch/videos/Ds7TOUPDdf)  [lecture notes](https://www.overleaf.com/6449339267zqgbjzscxrtx) 
 
 Richers features maps that linear ones, and Kernel methods, are one of the most important aspect of supervised machine learning. Michael Jordan's [notes on kernel](https://people.eecs.berkeley.edu/~jordan/kernels/0521813972c02_p25-46.pdf) are a good reference. The review from [Hofmann,  Scholkopf and Smola](https://arxiv.org/pdf/math/0701907.pdf) is also very complete. Scikit-learn has a [detailed and very efficient implementation](https://scikit-learn.org/stable/modules/kernel_approximation.html).
 
-* **9/11 (viii) Neural networks and backpropagation**
+* **9/11 (vii) Neural networks & deep learning**  [lecture notes](https://www.overleaf.com/4275199117yvpktswnmhqy) 
+
+Over the last decades, neural networks have made quite an impact, one might even say that they are at the origin of a revolution in machine learning and artificial intelligence.  This simple website allows you to get intuition on how they actually work for simple dataset: [Tensorflow playground](https://playground.tensorflow.org). The [universal approximation theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem) is discussed in many references (see for instance [here](https://ai.stackexchange.com/questions/13317/where-can-i-find-the-proof-of-the-universal-approximation-theorem/13319)). Despite Backpropagation being a rather trivial application of the chain rule of derivatives from Newton and Liebnitz [notes](https://cs.stanford.edu/~quocle/tutorial1.pdf), it is the cornerstone of learning neural network.
 
 
 ### Lab classes:
@@ -69,6 +71,9 @@ Richers features maps that linear ones, and Kernel methods, are one of the most 
 * Week 6(27/10): Classification with linear methods [EXO6](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP6/FoIL_TP6.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP6/Solution/FoIL_TP6_solved.ipynb)
 
 * Week 7(3/10): Kernel methods[EX07](https://github.com/IdePHICS/FundamentalLearningEPFL2021/tree/main/TP7)
+
+* Week 8(10/10): Backpropagation [EX08](https://github.com/IdePHICS/FundamentalLearningEPFL2021/tree/main/TP8)
+
 
 ### Homeworks: 
 
